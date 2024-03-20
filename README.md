@@ -13,6 +13,6 @@ Key objectives of the project include:
     effects of the pandemic.
 
 ## Project Preview
-![project-preview](https://github.com/davidadabao/Supermarket-Sales/blob/main/Supermarket%20Sales.jpg)
+![project-preview](https://github.com/davidadabao/COVID-19-Global-Vaccine-Tracker/blob/main/Project%20Overview.jpg)
 
 Through this project, stakeholders including policymakers, healthcare professionals, researchers, and the general public will gain valuable insights into the global vaccination landscape. By tracking progress, identifying challenges, and informing decision-making, the COVID-19 Vaccination Tracker contributes to the collective efforts in combating the pandemic and promoting public health worldwide.
