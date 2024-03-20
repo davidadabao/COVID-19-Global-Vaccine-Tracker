@@ -12,4 +12,7 @@ Key objectives of the project include:
 3.  Impact Assessment: Evaluating the impact of vaccination campaigns on controlling the spread of COVID-19, reducing hospitalizations and fatalities, and mitigating the socioeconomic
     effects of the pandemic.
 
+## Project Preview
+![project-preview](https://github.com/davidadabao/Supermarket-Sales/blob/main/Supermarket%20Sales.jpg)
+
 Through this project, stakeholders including policymakers, healthcare professionals, researchers, and the general public will gain valuable insights into the global vaccination landscape. By tracking progress, identifying challenges, and informing decision-making, the COVID-19 Vaccination Tracker contributes to the collective efforts in combating the pandemic and promoting public health worldwide.
